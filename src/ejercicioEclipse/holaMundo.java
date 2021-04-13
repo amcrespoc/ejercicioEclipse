@@ -5,7 +5,7 @@ public class holaMundo {
 	public static String saludo;
 	
 	public holaMundo (){
-		holaMundo.saludo="Muy bien";
+		holaMundo.saludo="Me has escuchado? Muy bien";
 	}
 
 
